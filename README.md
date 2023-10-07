@@ -13,14 +13,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=FilipePacheco7&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-  <a href="https://www.instagram.com/lipepacheco7/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-</div>
-
-  
-
 ### Main skills:
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -36,7 +28,6 @@
   <img align="center" alt="Lubuntu" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
-  
 ### Studying in this moment:
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-1-225993.png">
@@ -47,5 +38,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FilipePacheco7}/count.svg" /></p> 
 <br></div>
   
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9932CC&height=120&section=footer"/>
